@@ -2,6 +2,10 @@
 
 独立保存微信公众号文章正文与评论，供采集工作台写入、[tomcattravel.com](https://tomcattravel.com) 只读构建。仓库名称为 `jinjiancheng-articles`，实际包含下列全部文章源，不仅限于金渐成。
 
+## 在线访问
+
+访问 [https://tomcattravel.com/](https://tomcattravel.com/) 在线阅读归档文章与评论。
+
 ## 目录
 
 - `md/汤姆喵的奇妙旅行/`
